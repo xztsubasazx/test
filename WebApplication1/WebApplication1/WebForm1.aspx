@@ -12,6 +12,10 @@
     <div>
     asdsdsd
     </div>
+        <asp:DropDownList ID="DropDownList1" runat="server">
+        </asp:DropDownList>
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+        <asp:HiddenField ID="HiddenField1" runat="server" />
     </form>
 </body>
 </html>
